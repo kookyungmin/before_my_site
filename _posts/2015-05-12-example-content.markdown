@@ -3,36 +3,20 @@ layout: post
 title:  "Tensorflow"
 date:   2017-08-03 04:33:00 -0500
 comments: true
-categories: tensorflow
+categories: blog
 ---
-## 파일작성 예제
-## Lorem
-Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
 
-### Ipsum
-Nunc nec aliquam tellus. Etiam faucibus magna nibh, ut fermentum velit consectetur id. Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
+## 블로그 포스팅
+안녕하세요~ 프로그래머를 꿈꾸는 학생 꾸리입니다.
+요즘 프로그래밍을 하는 사람들은 모두 githup을 사용하더라구요.
+공부한 것을 블로그 포스팅을 하면 복습도 되고 나중에 스펙도 된다고 하기에
+이렇게 시작하게 되었습니다!
 
-## Dugem
-Nullam vehicula iaculis tortor, in cursus enim auctor vitae. Duis semper pulvinar justo, at vestibulum dolor. Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
+많은 조언 부탁드립니다~!
 
-> Nam vitae commodo ex. Nunc vel tellus leo.
-
-### Golem
-Quisque sodales euismod nibh, gravida venenatis nibh dignissim eget. Morbi gravida enim vel lectus aliquet aliquet.
-
-* Praesent commodo cursus magna.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Cras fermentum nibh quis nisl imperdiet ornare. Sed nisi nunc, dictum sit amet gravida in, finibus rhoncus orci. Donec scelerisque commodo turpis ac venenatis.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus.
-3. Maecenas sed diam eget risus.
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ``` javascript
 function trigger_alert(){
