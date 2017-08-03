@@ -3,7 +3,7 @@ layout: post
 title:  "블로그 포스팅 시작"
 date:   2017-08-03 04:33:00 -0500
 comments: true
-categories: study
+categories: Study
 ---
 
 ## 블로그 포스팅
