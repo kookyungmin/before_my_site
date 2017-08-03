@@ -28,3 +28,10 @@ int main(void)
   return 0;
 }
 ```
+``` javascript
+function trigger_alert(){
+  alert("Lorem Ipsum dolor sit amet");
+}
+
+trigger_alert();
+```
