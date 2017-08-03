@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: 25살 프로그래머를 꿈꾸는 학생
+description: 25살 예비 프로그래머
 
 # Social icons
 facebook: 
