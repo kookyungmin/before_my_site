@@ -18,10 +18,11 @@ categories: blog
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
 
-``` javascript
-function trigger_alert(){
-  alert("Lorem Ipsum dolor sit amet");
+``` C
+#include<stdio.h>
+int main(void)
+{
+  printf("HELLO");
+  return 0;
 }
-
-trigger_alert();
 ```
