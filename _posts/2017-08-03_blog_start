@@ -18,7 +18,7 @@ categories: tensorflow
 ![Large example image](http://placehold.it/800x400 "Large example image")
 
 
-``` C++
+``` C
 #include<stdio.h>
 int main(void)
 {
