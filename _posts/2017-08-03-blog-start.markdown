@@ -18,7 +18,7 @@ categories: word
 많은 조언 부탁드립니다~!
 
 
-![image]({{kookyungmin.githup.io}}\image\test.jpg)
+![image](https://github.com/kookyungmin/kookyungmin.github.io/image/test.jpg)
 
 ``` C++
 #include<stdio.h>
