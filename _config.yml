@@ -8,10 +8,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: One sentence introducing yourself or what you do
 
 # Social icons
-facebook: username
+facebook: 
+likedin:
 github: kookyungmin
-deviantart: username
-codepen: username
+deviantart: 
+codepen: 
 
 footer: © Taken theme
 
