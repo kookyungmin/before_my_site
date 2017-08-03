@@ -18,7 +18,7 @@ categories: word
 많은 조언 부탁드립니다~!
 
 
-![Large example image](\kookyungmin.githup.io\image\test.jpg "Large example image")
+![사진]({{kookyungmin.githup.io}}\image\test.jpg)
 
 
 ``` C++
