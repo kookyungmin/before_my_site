@@ -12,7 +12,7 @@ permalink: /about/
 
 residence:Seoul
 
-age: 25
+age: 26
 
 major: mathematics at UOS
 
