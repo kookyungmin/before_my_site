@@ -330,7 +330,7 @@ categories: IoT_Foundation
 >다음은 프로세스의 상태 모형을 나타낸다.
 >
 >
-![image](/image/IoT_image/IoT_img_02.png)
+>![image](/image/IoT_image/IoT_img_02.png)
 >
 >
 >동시에 주기억 장치에 여러 개의 작업이 존재하면서 수행되어야 할 때 CPU가 처리 할 수 있는 작업은
@@ -371,7 +371,7 @@ categories: IoT_Foundation
 >->상위 계층에서 하위 계층으로의 호출만 허용
 >
 >
-![image](/image/IoT_image/IoT_img_03.png)
+>![image](/image/IoT_image/IoT_img_03.png)
 >
 >
 >레벨 1(프로세서 관리): 동기화와 프로세서의 스케줄링을 위한 프로세서를 관리한다.
