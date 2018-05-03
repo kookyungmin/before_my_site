@@ -12,7 +12,7 @@ categories: IoT_SW_Foundation
 
 ---
 
-## 운영체제의 기초
+## 응용 SW의 기초
 
 <br>
 <br>
