@@ -1,10 +1,17 @@
 ---
+
 layout: post
-title:  "[IoT_응용SW기초]운영체제 기초(2)"
+
+title:  "[IoT_응용SW기초] 2.운영체제 기초(2)"
+
 date:   2018-05-03 09:00:10 -0500
+
 comments: true
-categories: IoT_Foundation
+
+categories: basis
+
 ---
+
 
 ## 운영체제 개념
 
