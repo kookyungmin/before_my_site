@@ -8,7 +8,7 @@ date:   2018-05-03 09:00:00 -0500
 
 comments: true
 
-categories: basis
+categories: IoT_Curriculum
 
 ---
 
