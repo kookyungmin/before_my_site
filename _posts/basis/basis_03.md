@@ -1,9 +1,15 @@
 ---
+
 layout: post
+
 title:  "[IoT_응용SW기초] 3.운영체제 기초(3)"
+
 date:   2018-05-03 09:00:11 -0500
+
 comments: true
+
 categories: basis
+
 ---
 
 ## 운영체제 종류
