@@ -1,10 +1,17 @@
 ---
+
 layout: post
-title:  "[IoT_응용SW기초] 1. 운영체제 기초(1)"
-date:   2018-05-03 09:00:00 -0500
+
+title:  "[IoT_응용SW기초] 1.운영체제 기초(1)"
+
+date:   2018-05-03 09:00:01 -0500
+
 comments: true
+
 categories: basis
+
 ---
+
 
 ## 응용 SW의 기초
 
