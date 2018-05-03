@@ -142,9 +142,9 @@ categories: basis
 <br>
 <br>
 - - -
-이전 장 [](https://kookyungmin.github.io.html)
+이전 장 [2.운영체제기초(2)](https://kookyungmin.github.io.html)
 <br>
-다음 장 [](https://kookyungmin.github.io.html)
+다음 장 [4.데이터베이스기초(1)](https://kookyungmin.github.io.html)
 <br>
 <br>
 <br>
