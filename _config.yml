@@ -5,7 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: 배움은 의무도, 생존도 아니다.
+description: 배움은 의무도, 
+생존도 아니다.
 
 # Social icons
 facebook: 
