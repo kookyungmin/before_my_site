@@ -20,4 +20,4 @@ minor: computer science at UOS
 
 email: rudals4549@naver.com
 
-자격증: 
+자격증: 정보처리기사
